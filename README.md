@@ -1,4 +1,4 @@
-# prono_project
+# Prono_project
 # Ce projet est mon premier projet de Machine Learning visant a predire le resultat de match de  tennis en utilisant une regression logistique binaire
 ### Utilsation d'une base de donnees Kaggle regroupant les matchs de tennis ATP des 200 meilleurs joueurs au monde depuis l'annee 2000.
 # Preparation des donnees pour le modele de ML: 
